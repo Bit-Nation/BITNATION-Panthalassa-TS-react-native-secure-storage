@@ -1,0 +1,25 @@
+{
+  "name": "BITNATION-Panthalassa-TS-react-native-secure-storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bit-Nation/BITNATION-Panthalassa-TS-react-native-secure-storage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bit-Nation/BITNATION-Panthalassa-TS-react-native-secure-storage/issues"
+  },
+  "homepage": "https://github.com/Bit-Nation/BITNATION-Panthalassa-TS-react-native-secure-storage#readme",
+  "dependencies": {
+    "BITNATION-Panthalassa-TS-secure-storage-interface": "git+https://github.com/Bit-Nation/BITNATION-Panthalassa-TS-secure-storage-interface.git#f01f532b4e7794ed1f6b708ec9425c3976097f62",
+    "react-native-sensitive-info": "^5.1.0",
+    "typescript": "^2.5.3"
+  }
+}
