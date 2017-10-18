@@ -1,5 +1,5 @@
 import {SecureStorageInterface,SecureStorageManager} from 'BITNATION-Panthalassa-TS-secure-storage-interface/SecureStorageInterface';
-import SInfo from 'react-native-sensitive-info';
+import SInfo = require('react-native-sensitive-info');
 
 // TODO: This code is not tested at all
 export class ReactNativeSecureStorage implements SecureStorageInterface {
